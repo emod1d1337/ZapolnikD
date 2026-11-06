@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.exe
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.deps.json
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.runtimeconfig.json
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.dll
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\bin\Debug\net9.0\ConsoleApp41.pdb
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.dll
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\refint\ConsoleApp41.dll
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.pdb
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ConsoleApp41.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ConsoleApp41-master\ConsoleApp41\obj\Debug\net9.0\ref\ConsoleApp41.dll
