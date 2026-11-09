@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PZ7_NET9/1.0.0": {
+        "runtime": {
+          "PZ7_NET9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PZ7_NET9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
