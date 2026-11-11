@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Indexators_NET9\bin\Debug\net9.0\IndexatorsNet9.exe
+C:\Users\Admin\Desktop\Indexators_NET9\bin\Debug\net9.0\IndexatorsNet9.deps.json
+C:\Users\Admin\Desktop\Indexators_NET9\bin\Debug\net9.0\IndexatorsNet9.runtimeconfig.json
+C:\Users\Admin\Desktop\Indexators_NET9\bin\Debug\net9.0\IndexatorsNet9.dll
+C:\Users\Admin\Desktop\Indexators_NET9\bin\Debug\net9.0\IndexatorsNet9.pdb
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.dll
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\refint\IndexatorsNet9.dll
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.pdb
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\IndexatorsNet9.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Indexators_NET9\obj\Debug\net9.0\ref\IndexatorsNet9.dll

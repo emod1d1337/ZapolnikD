@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IndexatorsNet9/1.0.0": {
+        "runtime": {
+          "IndexatorsNet9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IndexatorsNet9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
